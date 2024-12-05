@@ -1,0 +1,12 @@
+#hidden{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#animation{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+}
